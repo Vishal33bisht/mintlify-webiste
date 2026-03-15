@@ -1,4 +1,4 @@
-Mintlify Landing Page Clone
+**Mintlify Landing Page Clone**
 
 A responsive Mintlify-inspired landing page built using HTML and CSS.
 This project recreates the UI of the Mintlify website for learning and practice purposes.
